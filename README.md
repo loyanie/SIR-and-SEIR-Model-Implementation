@@ -31,4 +31,7 @@ These plots simulate (susceptible-exposed-infectious-recovered (SEIR) Model the 
 β = 0.3 × 10−3, γ = 0.1, σ = 0.2, and μ = 0.01. Plot the compartment populations over time.
 
 #### Pandemic Dynamics over 365 days
-![SIR model implementation](/images/sirdynamics1.png)
+![SIR model implementation](/images/seir_365.png)
+
+#### Pandemic Dynamics over 1200 days
+![SIR model implementation](/images/seir_1200.png)
