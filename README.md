@@ -21,4 +21,7 @@ and parameters for a total population of N = 1000 individuals:
 
 ![SIR model implementation](/images/sirdynamics1.png)
 
-#### Interpretation
+#### Pandemic Dynamics
+- The susceptible population starts at 999 and decreases to approximately 59, while the final attack rate: 93.95%
+- The infected population peaks at day 38 with 300 infected individuals (which is 30.06% of the total population) and the reahes nearly reaches zero by day 150: 0.0674
+- The recovered population grows from 0 to approximately 940.47 and eventually reaches 94.05% of the total population
