@@ -46,8 +46,9 @@ These plots simulate (susceptible-exposed-infectious-recovered (SEIR) Model the 
 
 
 ### Sensitivity Analysis
-
-
+Here we conduct a sensitivity analysis on the SEIR model from the previous part by varying β (0.1 × 10−3 to
+0.5 × 10−3) and γ (0.05 to 0.2).Then plot the peak infection and total infections over a year for each β and γ combination.
+![SIR model implementation](/images/Unknown-8.png)
 
 
 _Disclaimer:_ ChatGPT was used to complete
