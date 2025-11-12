@@ -30,3 +30,5 @@ and parameters for a total population of N = 1000 individuals:
 These plots simulate (susceptible-exposed-infectious-recovered (SEIR) Model the for both 365 and 1200 days with S(0) = 990, E(0) = 9, I(0) = 1, R(0) = 0, and parameters
 β = 0.3 × 10−3, γ = 0.1, σ = 0.2, and μ = 0.01. Plot the compartment populations over time.
 
+#### Pandemic Dynamics over 365 days
+![SIR model implementation](/images/sirdynamics1.png)
