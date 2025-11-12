@@ -15,8 +15,10 @@ The objective is to implement and analyze the susceptible-infectious-recovered (
 This plot simulates the SIR model over a period of 150 days with the following initial conditions
 and parameters for a total population of N = 1000 individuals:
 
-• Initial populations: S(0) = 999, I(0) = 1, R(0) = 0,
-• Transmission rate: β = 0.3 × 10−3,
-• Recovery rate: γ = 0.1.
+- Initial populations: S(0) = 999, I(0) = 1, R(0) = 0,
+- Transmission rate: β = 0.3 × 10−3,
+- Recovery rate: γ = 0.1.
 
 ![SIR model implementation](/images/sirdynamics1.png)
+
+#### Interpretation
