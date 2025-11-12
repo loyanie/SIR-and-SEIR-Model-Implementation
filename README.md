@@ -42,3 +42,13 @@ These plots simulate (susceptible-exposed-infectious-recovered (SEIR) Model the 
 - After the first wave, the number of infected individuals drops dramatically. However, the I population does not drop to zero. Instead, the infection resurges in smaller, less intense waves.
 
 - After long time (visible in the 1200-day plot), the amplitude of these waves decreases and eventually the system settles into a stable endemic state after roughly 600 days. In this state, the S, E, I, and R populations stabilize at constant, non-zero levels (e.g., I stabilizes around 50 individuals). This means the infection persists indefinitely within the population, maintained by a balance between new infections and deaths.
+
+
+
+### Sensitivity Analysis
+
+
+
+
+_Disclaimer:_ ChatGPT was used to complete
+HW 1 to understand the concepts of numerical methods and how they are implemented on python
