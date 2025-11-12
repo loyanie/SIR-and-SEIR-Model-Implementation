@@ -19,4 +19,4 @@ and parameters for a total population of N = 1000 individuals:
 • Transmission rate: β = 0.3 × 10−3,
 • Recovery rate: γ = 0.1.
 
-![SIR model implementation](SIR-and-SEIR-Model-Implementation/images/sirdynamics.png)
+![SIR model implementation](/images/sirdynamics1.png)
