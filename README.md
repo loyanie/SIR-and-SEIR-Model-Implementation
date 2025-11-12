@@ -1,7 +1,9 @@
 # BMI 500: Homework 11
 
 Name: Loyani Loyani
+
 Program: CSI PhD
+
 Department: Biomedical Informatics, Emory University
 
 Contact: loyani.loyani@emory.edu
